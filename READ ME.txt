@@ -10,4 +10,7 @@
 2. you can run the project using "npm start"
 3. the project will run in: "http://localhost:3000"
 
+** PLEASE NOTICE THAT THE PROJECT IS CONFIGURED TO CONNECT TO THE BACKEND LOCALLY
+   SO MAKE SURE THE BACKEND IS RUNNING WHEN YOU'RE TRYING TO MAKE THE BACKEND CALL (PRESSING SOLVE BUTTON)
+
 ************ ENJOY **************
