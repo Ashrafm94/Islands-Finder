@@ -1,0 +1,21 @@
+.h-100v{
+    height: 100vh;
+}
+
+.input-container{
+    width: 250px;
+}
+
+.row-max-size{
+    width: 500px;
+}
+
+.fixed-width{
+    flex-grow: unset !important;
+    flex-basis: unset !important;
+}
+
+.block-size{
+    width: 15px;
+    height: 15px;
+}

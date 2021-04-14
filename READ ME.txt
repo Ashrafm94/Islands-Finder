@@ -1,0 +1,13 @@
+============ INSTRUCTIONS ===============
+
+*** "find-islands-be" folder contains the backend of the project
+1. navigate into the project directory and run "npm install" to install all dependencies.
+2. you can run the project using: "npm start" or "npm run server"
+3. the project will run in: "http://localhost:5000"
+
+*** "find-islands-client" contains the UI part
+1. navigate into the project directory and run "npm install" to install all the dependencies.
+2. you can run the project using "npm start"
+3. the project will run in: "http://localhost:3000"
+
+************ ENJOY **************
